@@ -1,0 +1,193 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\obj\\Debug\\net6.0\\build-gz\\qhybCPKQ.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\obj\\Debug\\net6.0\\scopedcss\\bundle\\studentcard.styles.css",
+      "PackagePath": "staticwebassets\\studentcard.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\1.png",
+      "PackagePath": "staticwebassets\\image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\2.png",
+      "PackagePath": "staticwebassets\\image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\3.png",
+      "PackagePath": "staticwebassets\\image\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\aim.png",
+      "PackagePath": "staticwebassets\\image\\aim.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\eagle-long.jpg",
+      "PackagePath": "staticwebassets\\image\\eagle-long.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\eagle.png",
+      "PackagePath": "staticwebassets\\image\\eagle.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\footerbg.png",
+      "PackagePath": "staticwebassets\\image\\footerbg.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\headerbg.png",
+      "PackagePath": "staticwebassets\\image\\headerbg.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\id-logo.png",
+      "PackagePath": "staticwebassets\\image\\id-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\idback.svg",
+      "PackagePath": "staticwebassets\\image\\idback.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\idbackground.jpg",
+      "PackagePath": "staticwebassets\\image\\idbackground.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\idfront.svg",
+      "PackagePath": "staticwebassets\\image\\idfront.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\idspacebg.png",
+      "PackagePath": "staticwebassets\\image\\idspacebg.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\knust.jpg",
+      "PackagePath": "staticwebassets\\image\\knust.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\knust_logo.png",
+      "PackagePath": "staticwebassets\\image\\knust_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\knusteagle.jpg",
+      "PackagePath": "staticwebassets\\image\\knusteagle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\pngegg (15).png",
+      "PackagePath": "staticwebassets\\image\\pngegg (15).png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\profileimg.png",
+      "PackagePath": "staticwebassets\\image\\profileimg.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\qr.png",
+      "PackagePath": "staticwebassets\\image\\qr.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\reload.svg",
+      "PackagePath": "staticwebassets\\image\\reload.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\students.jpg",
+      "PackagePath": "staticwebassets\\image\\students.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\image\\validated.png",
+      "PackagePath": "staticwebassets\\image\\validated.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\resources\\tailwind.min.css",
+      "PackagePath": "staticwebassets\\resources\\tailwind.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\resources\\tailwind.min.js",
+      "PackagePath": "staticwebassets\\resources\\tailwind.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\studentcard\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.studentcard.props",
+      "PackagePath": "build\\studentcard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.studentcard.props",
+      "PackagePath": "buildMultiTargeting\\studentcard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.studentcard.props",
+      "PackagePath": "buildTransitive\\studentcard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.studentcard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
